@@ -1,0 +1,17 @@
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.AutofacRegistrations.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.AutofacRegistrations.pdb
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\Autofac.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.BusinessLogicLayer.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.Domain.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\AutoMapper.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\EntityFramework.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.BusinessLogicLayer.pdb
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.Domain.pdb
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\GameStore.Domain.dll.config
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\Autofac.xml
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\AutoMapper.xml
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\bin\Debug\EntityFramework.xml
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\obj\Debug\GameStore.AutofacRegistrations.csprojResolveAssemblyReference.cache
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\obj\Debug\GameStore.AutofacRegistrations.csproj.CoreCompileInputs.cache
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\obj\Debug\GameStore.AutofacRegistrations.dll
+E:\Projects\ASP\GameStore\GameStore.AutofacRegistrations\obj\Debug\GameStore.AutofacRegistrations.pdb
